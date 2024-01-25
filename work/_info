@@ -1,0 +1,123 @@
+m255
+K4
+z2
+Z0 !s12c _opt1
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s12c _opt
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/varun/Documents/GitHub/SPI
+T_opt
+!s110 1706221629
+VKc>f:5Ziiz10G0@g[]T_b3
+Z3 04 16 4 work spi_interface_tb fast 0
+=1-5414f39e8dc4-65b2e03b-374-8cc
+R1
+Z4 !s12b OEM100
+!s124 OEM10U1 
+o-quiet -auto_acc_if_foreign -work work
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2023.3;77
+R2
+T_opt1
+!s110 1706222342
+VzX^ImgbdKON7dekKkg7He1
+R3
+=3-5414f39e8dc4-65b2e306-1b3-7348
+R1
+R4
+!s124 OEM10U5 
+o-quiet -auto_acc_if_foreign -work work +acc
+R5
+n@_opt1
+R6
+vspi_interface
+Z7 2spi_interface.sv|spi_interface_tb.sv|stability_detector.sv
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z9 !s110 1706222337
+!i10b 1
+!s100 DYjJcC3D??j8Gla];aG;l2
+IR7OXINJS3Q9:91BgXgzcQ2
+S1
+R2
+w1706222335
+8spi_interface.sv
+Fspi_interface.sv
+!i122 13
+L0 1 51
+Z10 VDg1SIo80bB@j0V0VzS_@n1
+Z11 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z12 !s108 1706222337.000000
+Z13 !s107 stability_detector.sv|spi_interface_tb.sv|spi_interface.sv|
+Z14 !s90 -F=C:/Users/varun/Documents/GitHub/SPI/vlog.opt|-F=|spi_interface.sv|spi_interface_tb.sv|stability_detector.sv|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z16 tSvlog 1 CvgOpt 0
+vspi_interface_tb
+R7
+R8
+R9
+!i10b 1
+!s100 9zC5_XB6nUOlM4G7cSZ631
+IRB6N3NH574<Lflo]WIXkE3
+S1
+R2
+w1706222106
+8spi_interface_tb.sv
+Fspi_interface_tb.sv
+!i122 13
+L0 1 60
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
+vstability_detector
+R7
+R8
+R9
+!i10b 1
+!s100 1]OCl3dKekcj<iOa:GkhY3
+IogNOkBWf8HOOaFZ]0<?jj3
+S1
+R2
+w1706220674
+8stability_detector.sv
+Fstability_detector.sv
+!i122 13
+L0 1 21
+R10
+R11
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 0
+R15
+R16
